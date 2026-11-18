@@ -1,10 +1,18 @@
 [
   {
     "id": "c42b6753-b2d6-4d52-9bb9-f3cf379ccbbe",
-    "name": "JavaScript Basics",
+    "name": "JavaScript Basic",
     "description": "Learn JavaScript fundamentals",
     "targetDate": "2026-12-31",
     "status": "Not Started",
     "creationDate": "2026-11-18T08:45:40.126Z"
+  },
+  {
+    "id": "f77d418e-7dfe-44cc-b17b-84ee5f67d021",
+    "name": "Intro to Javascript",
+    "description": "Introduction",
+    "targetDate": "2026-09-09",
+    "status": "In Progress",
+    "creationDate": "2026-11-18T10:59:10.906Z"
   }
 ]
